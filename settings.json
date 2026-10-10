@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MAXNOTPLAY.aternos.me",
-    "port": 61354,
+    "ip": "Persinol.aternos.me",
+    "port": 27609,
     "version": "1.20.1",
     "try-creative": false
   },
