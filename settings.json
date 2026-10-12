@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Persinol.aternos.me",
-    "port": 27609,
+    "ip": "HYPIXEL-mRRG.aternos.me",
+    "port": 55659,
     "version": "1.20.1",
     "try-creative": false
   },
