@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "HYPIXEL-mRRG.aternos.me",
-    "port": 49727,
+    "ip": "HypixelMAX.aternos.me",
+    "port": 11947,
     "version": "1.20.1",
     "try-creative": false
   },
