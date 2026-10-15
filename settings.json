@@ -1,8 +1,8 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "DREAM",
-    "password": "DREAM",
+    "username": "POWER",
+    "password": "LUCK123",
     "type": "offline"
   },
   "server": {
@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 5,
       "messages": [
-        "/login DREAM",
+        "/login LUCK123",
         "/fuck",
         "/login DREAM"
       ]
