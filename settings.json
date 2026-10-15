@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 5,
+      "repeat-delay": 100,
       "messages": [
         "tanky for join thes server",
         "DREAM IS OP",
